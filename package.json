@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "node index.js",
+    "start": "node src/server.js",
     "dev": "nodemon index.js",
     "build": "echo 'No build needed for backend-only project.'"
   },
