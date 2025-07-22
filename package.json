@@ -1,8 +1,6 @@
-{
- "scripts": {
-  "start": "node backend/index.js",
-  "dev": "nodemon backend/index.js",
-  "build": "echo 'No build needed for backend-only project.'"
+"scripts": {
+  "start": "node backend/server.js",
+  "dev": "nodemon backend/server.js"
 },
   "dependencies": {
     "body-parser": "^2.2.0",
